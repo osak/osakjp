@@ -71,7 +71,7 @@ disqusShortname = "osa_k"
 [[menu.main]]
   name = "Blog (en)"
   weight = 1
-  url  = "blog/en/"
+  url  = "posts/en/"
 [[menu.main]]
   name = "Blog (Hatena)"
   weight = 2
