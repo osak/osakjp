@@ -54,7 +54,7 @@ disqusShortname = "osa_k"
   name = "Mastodon (social.mikutter.hachune.net)"
   icon = "fa fa-mastodon fa-2x"
   weight = 2
-  url = "https://social.mikutter.hachune.net/osa_k"
+  url = "https://social.mikutter.hachune.net/@osa_k"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
