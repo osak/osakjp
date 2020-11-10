@@ -10,7 +10,7 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "osa_k"
+disqusShortname = "osak-jp"
 
 [params]
   author = "Osamu Koga (osa_k)"
