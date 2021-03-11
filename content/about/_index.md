@@ -11,7 +11,7 @@ Nationality
 : Japanese
 
 Archived website
-: [メモ用紙2.0](http://memoyoushi-archive.osak.jp)
+: [メモ用紙2.0](/index_memoyoushi.html)
 
 ## Work Experiences
 Indeed Inc. (2017/07 - Current)

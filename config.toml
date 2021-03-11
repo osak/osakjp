@@ -12,6 +12,8 @@ pygmentscodefencesguesssyntax = true
 
 disqusShortname = "osak-jp"
 
+staticDir = ["memoyoushi-archive"]
+
 [params]
   author = "Osamu Koga (osa_k)"
   info = "Full Stack Software Engineer"
