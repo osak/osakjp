@@ -11,6 +11,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 disqusShortname = "osak-jp"
+googleAnalytics = "G-K7GK6FJ729"
 
 staticDir = ["memoyoushi-archive"]
 
