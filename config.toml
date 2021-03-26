@@ -73,13 +73,17 @@ staticDir = ["memoyoushi-archive"]
 # Menu links
 [[menu.main]]
   name = "Blog (en)"
-  weight = 1
+  weight = 10
   url  = "posts/en/"
 [[menu.main]]
+  name = "Blog (ja)"
+  weight = 20
+  url  = "posts/ja/"
+[[menu.main]]
   name = "Blog (Hatena)"
-  weight = 2
+  weight = 30
   url  = "https://osak.hatenablog.jp/"
 [[menu.main]]
   name = "About"
-  weight = 3
+  weight = 40
   url = "about/"
