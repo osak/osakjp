@@ -1,6 +1,6 @@
 baseurl = "https://osak.jp"
 title = "osak.jp"
-theme = "hugo-coder"
+theme = "hugo-coder-custom"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
