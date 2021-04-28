@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "osak-jp"
 googleAnalytics = "G-K7GK6FJ729"
 
-staticDir = ["memoyoushi-archive"]
+staticDir = ["memoyoushi-archive", "static"]
 
 [params]
   author = "Osamu Koga (osa_k)"
