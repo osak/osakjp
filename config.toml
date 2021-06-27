@@ -22,6 +22,7 @@ staticDir = ["memoyoushi-archive", "static"]
   keywords = "blog,developer,personal"
   #avatarurl = "images/avatar.jpg"
   gravatar = "osak.63@gmail.com"
+  hatenaID = "osa_k"
 
   #favicon_32 = "/img/favicon-32x32.png"
   #favicon_16 = "/img/favicon-16x16.png"
