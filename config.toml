@@ -85,6 +85,10 @@ staticDir = ["memoyoushi-archive", "static"]
   weight = 30
   url  = "https://osak.hatenablog.jp/"
 [[menu.main]]
-  name = "About"
+  name = "Memo"
   weight = 40
+  url = "memo/"
+[[menu.main]]
+  name = "About"
+  weight = 50
   url = "about/"
