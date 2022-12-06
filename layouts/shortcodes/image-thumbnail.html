@@ -1,0 +1,7 @@
+
+{{ $original := .Page.Resources.GetMatch (printf "*%s*" (.Get 0)) }}
+{{ $thumbnail := $original.Resize "250x" }}
+
+<a href="{{ $original.RelPermalink }}" target="_blank">
+    <img src="{{ $thumbnail.RelPermalink }}">
+</a>
