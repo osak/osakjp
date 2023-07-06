@@ -14,7 +14,7 @@ Archived website
 : [メモ用紙2.0](/index_memoyoushi.html)
 
 ## Work Experiences
-Indeed Inc. (2017/07 - Current)
+Indeed Inc. (2017/07 - 2023/03)
 : Job recommendation system
 
 Recruit Hodlings Co., Ltd. (2015/04 - 2017/06)
