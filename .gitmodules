@@ -1,10 +1,6 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:osak/osak.github.io
-	branch = master
 [submodule "themes/hugo-coder-custom"]
 	path = themes/hugo-coder-custom
-	url = git@github.com:osak/hugo-coder-custom.git
+	url = https://github.com/osak/hugo-coder-custom
 [submodule "themes/hugo-book"]
 	path = themes/hugo-book
 	url = https://github.com/alex-shpak/hugo-book
