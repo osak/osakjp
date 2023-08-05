@@ -39,7 +39,7 @@
 	<div class="h-entry" style="display:none">
           <div class="e-content">
             Updated blog: {{ .Title }}<br>
-            <a class="u-url" href="{{ .Permalink | safeURL }}">
+            <a class="u-url" href="{{ .Permalink | safeURL }}">{{ .Permalink | safeURL }}</a>
           </div>
           <a class="u-bridgy-fed" href="https://fed.brid.gy/"></a>
         </div>
