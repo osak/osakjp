@@ -1,4 +1,4 @@
-baseurl = "https://osak.jp"
+baseurl = "https://netlify-test.osak.jp"
 title = "osak.jp"
 theme = "hugo-coder-custom"
 languagecode = "en"
