@@ -1,0 +1,15 @@
+<section class="container page">
+  <article class="h-entry">
+    <header>
+      <h1 class="title p-name">
+        <a class="title-link u-url" href="{{ .Permalink | safeURL }}">
+          {{ .Title }}
+        </a>
+      </h1>
+    </header>
+
+    <div class="e-content">
+   {{ .Content }}
+    </div>
+  </article>
+</section>
