@@ -36,15 +36,7 @@
           <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
         {{ end }}
         {{ .Content }}
-	<div class="h-entry" style="display:none">
-          <div class="e-content">
-            Updated blog: {{ .Title }}<br>
-            <a class="u-url" href="{{ .Permalink | safeURL }}">{{ .Permalink | safeURL }}</a>
-          </div>
-          <a class="u-bridgy-fed" href="https://fed.brid.gy/"></a>
-        </div>
       </div>
-
 
       <footer>
         {{- if .Params.HatenaStar -}}
@@ -55,6 +47,16 @@
         {{ partial "posts/disqus.html" . }}
         {{ partial "posts/commento.html" . }}
         {{ partial "posts/utterances.html" . }}
+
+        <div class="h-entry" style="display:none">
+          <!-- Invisible microformats for content generation of Bridgy Fed -->
+          <div class="e-content">
+            ブログ更新: {{ .Title }}<br>
+            <a class="u-url" href="{{ .Permalink | safeURL }}">{{ .Permalink | safeURL }}</a>
+          </div>
+          <time class="dt-published" datetime='{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}'></time>
+          <a class="u-bridgy-fed" href="https://fed.brid.gy/"></a>
+        </div>
       </footer>
     </article>
 
