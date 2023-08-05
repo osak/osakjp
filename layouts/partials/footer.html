@@ -10,7 +10,7 @@
           {{ .Site.Params.since }} -
         {{ end }}
         {{ now.Year }}
-        {{ with .Site.Params.author }} <a href="https://netlify-test.osak.jp/" rel="me" class="h-card">{{ . }}</a> {{ end }}
+        {{ with .Site.Params.author }} <a href="{{ $.Site.BaseURL | safeHTML }}" rel="me" class="h-card">{{ . }}</a> {{ end }}
       {{ end }}
       {{ if not .Site.Params.hideCredits }}
         {{ if not .Site.Params.hideCopyright }} · {{ end }}
