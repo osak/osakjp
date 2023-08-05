@@ -3,11 +3,11 @@
 {{ end }}
 {{ define "content" }}
   <section class="container post">
-    <article class="h-entry">
+    <article>
       <header>
         <div class="post-title">
-          <h1 class="title p-name">
-            <a class="title-link u-url" href="{{ .Permalink | safeURL }}">
+          <h1 class="title">
+            <a class="title-link" href="{{ .Permalink | safeURL }}">
               {{ .Title }}
             </a>
           </h1>
@@ -31,12 +31,16 @@
         </div>
       </header>
 
-      <div class="e-content">
+      <div>
         {{ if .Params.featuredImage }}
           <img src='{{ .Params.featuredImage }}' alt="Featured image"/>
         {{ end }}
         {{ .Content }}
-	<div style="display:none">
+	<div class="h-entry" style="display:none">
+          <div class="e-content">
+            Updated blog: {{ .Title }}<br>
+            <a class="u-url" href="{{ .Permalink | safeURL }}">
+          </div>
           <a class="u-bridgy-fed" href="https://fed.brid.gy/"></a>
         </div>
       </div>
