@@ -39,7 +39,7 @@ staticDir = ["memoyoushi-archive", "static"]
   hidecolorschemetoggle = false
 
   #customCSS = ["css/custom.css"]
-  #customSCSS = ["scss/custom.scss"]
+  customSCSS = ["scss/osakjp.scss"]
   #customJS = ["js/custom.js"]
 
 [taxonomies]
