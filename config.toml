@@ -10,7 +10,8 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "osak-jp"
+# Disabling Disqus as they deliver disgusting ads
+# disqusShortname = "osak-jp"
 googleAnalytics = "G-K7GK6FJ729"
 
 staticDir = ["memoyoushi-archive", "static"]
