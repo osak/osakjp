@@ -7,3 +7,13 @@
 body {
     line-height: 1.5em;
 }
+
+p, .content article p {
+    text-align: inherit;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    code {
+        font-size: inherit;
+    }
+}
