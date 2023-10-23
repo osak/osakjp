@@ -16,6 +16,8 @@ googleAnalytics = "G-K7GK6FJ729"
 
 staticDir = ["memoyoushi-archive", "static"]
 
+timeout = "120s"
+
 [params]
   author = "Osamu Koga (osa_k)"
   info = "Full Stack Software Engineer"
