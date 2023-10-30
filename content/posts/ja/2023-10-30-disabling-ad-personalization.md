@@ -2,7 +2,7 @@
 title: "Web広告のパーソナライゼーションを切る"
 slug: "disabling-ad-personalization"
 date: 2023-10-30T21:50:00+09:00
-draft: true
+draft: false
 ---
 
 しばらく前からWeb広告のパーソナライゼーションを切っている。きっかけは井上純一さんのこのツイート。ちょっと前だと思ってたけどもう2年半も前か……。
