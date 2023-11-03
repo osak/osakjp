@@ -1,8 +1,8 @@
 baseurl = "https://osak.jp"
 title = "osak.jp"
 theme = "hugo-coder-custom"
-languagecode = "en"
-defaultcontentlanguage = "en"
+languagecode = "ja"
+defaultcontentlanguage = "ja"
 
 paginate = 20
 

@@ -1,5 +1,6 @@
 +++
 title = "About"
+lang = "en"
 +++
 
 ## Basic info
