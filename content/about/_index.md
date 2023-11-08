@@ -34,9 +34,6 @@ Programming Language (Good)
 Framework
 : Spring Framework, React, Redux, Mobx
 
-License
-: Green Card
-
 # Educations
 Master of Information Processing, Tokyo Institute of Technology (March 2015)
 : Prediction of human emotions using EEG (brainwave)

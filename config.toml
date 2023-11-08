@@ -78,11 +78,11 @@ timeout = "120s"
 [[menu.main]]
   name = "Blog (en)"
   weight = 10
-  url  = "posts/en/"
+  url  = "posts/en/index.html"
 [[menu.main]]
   name = "Blog (ja)"
   weight = 20
-  url  = "posts/ja/"
+  url  = "posts/ja/index.html"
 [[menu.main]]
   name = "Blog (Hatena)"
   weight = 30
@@ -90,8 +90,8 @@ timeout = "120s"
 [[menu.main]]
   name = "Memo"
   weight = 40
-  url = "memo/"
+  url = "memo/index.html"
 [[menu.main]]
   name = "About"
   weight = 50
-  url = "about/"
+  url = "about/index.html"
