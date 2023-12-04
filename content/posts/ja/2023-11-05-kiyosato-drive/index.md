@@ -1,6 +1,7 @@
 ---
 title: "清里高原ドライブ"
 slug: "kiyosato-drive"
+categories: ["ドライブ"]
 date: 2023-11-06T20:00:00+09:00
 draft: false
 ---

@@ -1,6 +1,7 @@
 ---
 title: "会津・猪苗代旅行"
 slug: "aizu-inawashiro-trip"
+categories: ["ドライブ"]
 date: 2023-10-23T21:40:00+09:00
 draft: false
 ---

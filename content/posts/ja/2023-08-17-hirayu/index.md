@@ -1,6 +1,7 @@
 ---
 title: "奥飛騨・平湯温泉旅行"
 slug: "2023-08-hirayu"
+categories: ["ドライブ"]
 date: 2023-08-17T19:00:00+09:00
 draft: false
 ---

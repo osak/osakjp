@@ -1,6 +1,7 @@
 ---
 title: "万座温泉・草津温泉ドライブ"
 slug: "manza-kusatsu-drive"
+categories: ["ドライブ"]
 date: 2023-11-03T23:30:00+09:00
 draft: false
 ---

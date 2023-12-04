@@ -1,6 +1,7 @@
 ---
 title: "勝浦ドライブ"
 slug: "katsuura-drive"
+categories: ["ドライブ"]
 date: 2023-10-15T17:55:00+09:00
 draft: false
 ---
