@@ -1,4 +1,3 @@
 ---
-cascade:
-  lang: "en"
+lang: "en"
 ---
