@@ -15,6 +15,9 @@ Archived website
 : [メモ用紙2.0](/index_memoyoushi.html)
 
 ## Work Experiences
+goooods Inc. (2024/06 - )
+: Product Development
+
 Indeed Inc. (2017/07 - 2023/03)
 : Job recommendation system
 
