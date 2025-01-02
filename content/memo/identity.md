@@ -11,6 +11,7 @@ date: 2023-07-06T20:00:00+09:00
 |----|----|
 |Twitter|[@osa_k](https://twitter.com/osa_k)|
 |Mastodon (Mikutter)|[@osa_k@social.mikutter.hachune.net](https://social.mikutter.hachune.net/@osa_k)|
+|mixi2|[osa_k](https://mixi.social/@osa_k)|
 |Misskey (Misskey.io)|[@osa_k@misskey.io](https://misskey.io/@osa_k)|
 |Bluesky|[@osak.bsky.social](https://bsky.app/profile/osak.bsky.social)|
 |Discord|osa_k|
