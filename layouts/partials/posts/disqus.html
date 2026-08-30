@@ -1,0 +1,3 @@
+{{- if and .Site.Config.Services.Disqus.Shortname (not (.Params.disableComments | default false)) -}}
+  {{ partial "disqus.html" . }}
+{{- end -}}

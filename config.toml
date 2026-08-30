@@ -1,7 +1,7 @@
 baseurl = "https://osak.jp"
 title = "osak.jp"
 theme = "hugo-coder-custom"
-languagecode = "ja"
+locale = "ja"
 defaultcontentlanguage = "ja"
 
 paginate = 20
@@ -10,13 +10,17 @@ pygmentsstyle = "bw"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-# Disabling Disqus as they deliver disgusting ads
-# disqusShortname = "osak-jp"
-googleAnalytics = "G-K7GK6FJ729"
-
 staticDir = ["memoyoushi-archive", "static"]
 
 timeout = "1800s"
+
+# Disabling Disqus as they deliver disgusting ads
+# [services.disqus]
+#   shortname = "osak-jp"
+
+[services]
+  [services.googleAnalytics]
+    id = "G-K7GK6FJ729"
 
 [params]
   author = "Osamu Koga (osa_k)"
